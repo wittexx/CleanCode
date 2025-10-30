@@ -1,0 +1,14 @@
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\bin\Debug\net9.0\CleanCodeDevOps.app.exe
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\bin\Debug\net9.0\CleanCodeDevOps.app.deps.json
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\bin\Debug\net9.0\CleanCodeDevOps.app.runtimeconfig.json
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\bin\Debug\net9.0\CleanCodeDevOps.app.dll
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\bin\Debug\net9.0\CleanCodeDevOps.app.pdb
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\obj\Debug\net9.0\CleanCodeDevOps.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\obj\Debug\net9.0\CleanCodeDevOps.app.AssemblyInfoInputs.cache
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\obj\Debug\net9.0\CleanCodeDevOps.app.AssemblyInfo.cs
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\obj\Debug\net9.0\CleanCodeDevOps.app.csproj.CoreCompileInputs.cache
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\obj\Debug\net9.0\CleanCodeDevOps.app.dll
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\obj\Debug\net9.0\refint\CleanCodeDevOps.app.dll
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\obj\Debug\net9.0\CleanCodeDevOps.app.pdb
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\obj\Debug\net9.0\CleanCodeDevOps.app.genruntimeconfig.cache
+C:\Users\willi\RiderProjects\CleanCodeDevOps\CleanCodeDevOps.app\obj\Debug\net9.0\ref\CleanCodeDevOps.app.dll
