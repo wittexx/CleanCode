@@ -8,11 +8,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: print GitHub context
-        run: echo "${( toJSON(github) )}"
+        run: echo '${( toJSON(github) )}'
 
 
       - name: Print job context
-        run: echo "${( toJSON(job) )}"
+        run: echo '${( toJSON(job) )}'
 
       - name: Print Runner context
-        run: echo "${(toJSON(runner) )}"
+        run: echo '${(toJSON(runner) )}'
