@@ -1,0 +1,26 @@
+name: Conditions Demo
+
+on: 
+  workflow_dispatch:
+
+
+jobs:
+  conditional-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Always runs
+        run: echo "this always runs"
+
+      - name: Runs only if previous step succeeded
+        if: success()
+        run: echo "Previous step succeeded"
+
+
+      - name: Simulating a failing step 
+        run: |
+           echo: "step fails intentionally"
+           exit 1
+
+      - name: Runs only if previous step failes
+        if: failure()
+        run: echo " prevoius step fails therefor i run "
