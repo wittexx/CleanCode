@@ -21,5 +21,16 @@ jobs:
           echo "Workflow level: $WORKFLOW_LEVEL"
           echo "job level: $JOB_LEVEL"
           echo "step level: $STEP_LEVEL"
+
+      - name: try to access STEP_LEVEL1 in another step
+        env:
+         STEP_LEVEL2: " step score variable 2"
+
+        run: |
+          if [ -z "$STEP_LEVEL" ]; then
+            echo "STEP_LEVEL1 is not available in this step - fallback message shown"
+          else "STEP_LEVEL is: $STEP_LEVEL"
+          fi
+         
           
   
